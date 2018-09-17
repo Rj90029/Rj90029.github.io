@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LMT")]
+[assembly: AssemblyTitle("Portfolio")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IBM")]
-[assembly: AssemblyProduct("LMT")]
-[assembly: AssemblyCopyright("Copyright © IBM 2018")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Portfolio")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4a1e476d-a62d-42cd-8245-8a6cf28663ff")]
+[assembly: Guid("cadc105b-85ea-47dc-b9fa-f26fb5730c84")]
 
 // Version information for an assembly consists of the following four values:
 //
